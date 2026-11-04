@@ -3,7 +3,7 @@
 <!--  PLACEHOLDER 1: logo / banner (suggested size: 1200x300) -->
 <img src="docs/images/banner.png" alt="APK Forge banner" width="100%">
 
-# ⚒ APK Forge
+#  APK Forge
 
 **Turn ONE all-in-one Java file into a signed, installable Android APK — with a single click.**
 
