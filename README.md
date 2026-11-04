@@ -47,7 +47,7 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
 
 <!--  PLACEHOLDER 3: code editor + diagnostics screenshot -->
 <p align="center">
-  <img src="docs/images/editor.png" alt="Java editor with diagnostics" width="90%">
+  <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/1886fffc-6cd4-4904-a06d-4b42fd0df72c" />
 </p>
 
 ---
@@ -76,11 +76,6 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
 4. On the **first launch**, APK Forge runs ** AUTO for all paths** and creates `Data/autopaths.json`.
 5. Open the **Dashboard**. Any missing tool shows a green **⬇ INSTALL** button — click it (or **Download & Install Missing**). The path fields fill themselves in when each install finishes.
 
-<!--  PLACEHOLDER 4: "READY TO BUILD?" checklist + installer dialog -->
-<p align="center">
-  <img src="docs/images/installer.png" alt="Ready to build checklist and Data installer" width="80%">
-</p>
-
 ---
 
 ##  How to build an APK
@@ -90,16 +85,6 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
 3. Choose an **icon** and add any **assets** (images, sounds, files).
 4. Press **BUILD**.
 5. When it finishes, your signed APK is in the output folder (default `Data/dist`). Copy it to your phone and install it.
-
-<!--  PLACEHOLDER 5: settings page screenshot -->
-<p align="center">
-  <img src="docs/images/settings.png" alt="Settings page" width="80%">
-</p>
-
-<!--  PLACEHOLDER 6: build log / finished build screenshot -->
-<p align="center">
-  <img src="docs/images/build.png" alt="Build log" width="80%">
-</p>
 
 ---
 
