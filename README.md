@@ -74,7 +74,7 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
    ```
 3. If a Python library is missing, a console window lists what is needed and asks **Install with pip? [Y/n]** — answer `Y` and the app restarts itself.
 4. On the **first launch**, APK Forge runs ** AUTO for all paths** and creates `Data/autopaths.json`.
-5. Open the **Dashboard**. Any missing tool shows a green **⬇ INSTALL** button — click it (or **Download & Install Missing**). The path fields fill themselves in when each install finishes.
+5. Open the **Dashboard**. Any missing tool shows a green ** INSTALL** button — click it (or **Download & Install Missing**). The path fields fill themselves in when each install finishes.
 
 ---
 
@@ -110,7 +110,7 @@ Data/
 ##  Troubleshooting
 
 - **A path is empty or wrong** → Settings → Advanced → press ** Auto** beside it.
-- **Wrong tool version** → the READY TO BUILD? checklist names the version found and the one required; use **⬇ INSTALL** to fetch the right one.
+- **Wrong tool version** → the READY TO BUILD? checklist names the version found and the one required; use ** INSTALL** to fetch the right one.
 - **Download fails (SSL / blocked network)** → APK Forge retries other TLS modes, mirrors and OS-level download tools automatically; try again or switch networks.
 - **Build error** → read the build log; the Diagnostics panel usually suggests a fix.
 
