@@ -130,6 +130,6 @@ APKs you build with APK Forge are yours. Copyright © 2026 **[Mahdi Dehghan]**.
 
 <div align="center">
 
-Made with ⚒ by **[YOUR NAME]** · [Report a bug](../../issues) · [Request a feature](../../issues)
+Made with ⚒ by **Mahdi Dehghan** · [Report a bug](../../issues) · [Request a feature](../../issues)
 
 </div>
