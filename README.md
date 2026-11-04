@@ -1,7 +1,8 @@
 <div align="center">
 
 <!--  PLACEHOLDER 1: logo / banner (suggested size: 1200x300) -->
-<img src="docs/images/banner.png" alt="APK Forge banner" width="100%">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/e2cf0d40-3145-48ce-9193-d334e44079b0" />
+
 
 #  APK Forge
 
