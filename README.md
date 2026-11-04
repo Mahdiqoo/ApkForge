@@ -116,13 +116,6 @@ Data/
 
 ---
 
-##  Roadmap
-
-- [ ] HTML / WebView project support
-- [ ] Your ideas — open an issue!
-
----
-
 ## 📜 License
 
 Licensed under the **[PolyForm Strict License 1.0.0](LICENSE)**.
@@ -131,7 +124,7 @@ Licensed under the **[PolyForm Strict License 1.0.0](LICENSE)**.
 -  You may **not** distribute it, modify it, or create new works based on it.
 -  You may **not** use it for commercial purposes.
 
-APKs you build with APK Forge are yours. Copyright © 2026 **[YOUR NAME]**.
+APKs you build with APK Forge are yours. Copyright © 2026 **[Mahdi Dehghan]**.
 
 ---
 
