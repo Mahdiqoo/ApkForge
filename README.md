@@ -25,7 +25,7 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
 
 <!--  PLACEHOLDER 2: main window / dashboard screenshot -->
 <p align="center">
-  <img src="docs/images/dashboard.png" alt="APK Forge dashboard" width="90%">
+  <img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/a38cd01d-8c25-44d2-ba95-d464562dae0d" />
 </p>
 
 ---
