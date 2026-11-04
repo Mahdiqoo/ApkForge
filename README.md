@@ -116,7 +116,7 @@ Data/
 
 ---
 
-## 📜 License
+##  License
 
 Licensed under the **[PolyForm Strict License 1.0.0](LICENSE)**.
 
