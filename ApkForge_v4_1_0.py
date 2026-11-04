@@ -9,27 +9,6 @@
  pick an icon, hit BUILD — APK Forge analyzes, splits, compiles, dexes,
  packages, aligns and signs a ready-to-install APK with a single click.
 
- v4.1.0 "POLISH" — THE PLAIN-TEXT PASS
- --------------------------------------------------------------------------------
- Every emoji removed from the codebase: log prefixes, buttons, nav tabs,
- toasts, diagnostics and banners now use plain ASCII markers ([ok], [warn],
- [error], [auto]) or no marker at all. Zero logic changes — an AST audit
- against v4.0.0 confirms every node matches and only string constants differ.
-
- v4.0.0 "CRUCIBLE" — THE STRUCTURED EDITION
- --------------------------------------------------------------------------------
- A ground-up reorganization of the v3.8.1 codebase: the same engine, the same
- behavior — now forged for readability and maintenance.
-   • 11 numbered parts with uniform section banners and the TOC below.
-   • Consistent flow: config → catalogs → engine → pipeline → GUI → boot.
-   • Every class and function now carries a concise docstring.
-   • Hot-loop regexes are pre-compiled (re.compile hoisted out of loops).
-   • Uniform whitespace: 4-space indents, 2/1 blank-line rules, ≤100-col wrap.
-   • Behavior locked against v3.8.1 by an automated headless regression
-     harness (scanner, analyzer, splitter, injector, sound synthesis,
-     toolchain probes) — byte-identical outputs on every check (v4.0.0;
-     v4.1.0 then stripped the emoji decoration, nothing else).
-
  TABLE OF CONTENTS
  --------------------------------------------------------------------------------
    PART 1  Bootstrap            imports · feature flags · app identity ·
