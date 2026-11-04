@@ -65,7 +65,7 @@ Everything it needs (JDK, build-tools, android.jar) is downloaded into a single 
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 1. **Download** `ApkForge_v3_8_1.py` (or clone this repository).
 2. **Run it:**
